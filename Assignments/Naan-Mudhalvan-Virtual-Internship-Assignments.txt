@@ -1,1 +1,5 @@
+Assignment Topics:
 
+First Assignment - ROMAN NUMERALS TO INTEGER
+
+Second Assignment - ATM SIMULATOR
